@@ -1,3 +1,3 @@
 # 91
  - 91video.org.cn
- - hoo.be/91
+ - hoo.be/91zh
